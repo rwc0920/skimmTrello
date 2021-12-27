@@ -1,0 +1,14 @@
+.add-close-btn-ctn {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.new-task input {
+  width: 94%;
+}
+
+.add-btn {
+  background-color: #00A300;
+  margin: 0 2px 0 2px;
+}
